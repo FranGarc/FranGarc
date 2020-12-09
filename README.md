@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Francisco Garcia, Android/Kotlin Developer
+
 Pronouns: He/Him
+
 Linkedin: https://www.linkedin.com/in/frangarciag/
+
