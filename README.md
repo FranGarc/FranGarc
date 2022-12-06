@@ -18,6 +18,8 @@ I'm Francisco Garcia, Android/Kotlin Developer
 
 [![Francisco Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranGarc&theme=dark#gh-dark-mode-only&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranGarc&repo=pokemonapp)](https://github.com/anuraghazra/github-readme-stats)
+
 Pronouns: He/Him
 
 Linkedin: https://www.linkedin.com/in/frangarciag/
