@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm Francisco Garcia, Android/Kotlin Developer
 
+Pronouns: He/Him
+
+Linkedin: https://www.linkedin.com/in/frangarciag/
+
 [![Francisco Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranGarc&theme=dark#gh-dark-mode-only&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -24,7 +28,5 @@ I'm Francisco Garcia, Android/Kotlin Developer
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranGarc&repo=pokemonapp&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-Pronouns: He/Him
 
-Linkedin: https://www.linkedin.com/in/frangarciag/
 
