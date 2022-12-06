@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm Francisco Garcia, Android/Kotlin Developer
 
+[![Francisco Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranGarc)](https://github.com/FranGarc/github-readme-stats)
+
 Pronouns: He/Him
 
 Linkedin: https://www.linkedin.com/in/frangarciag/
