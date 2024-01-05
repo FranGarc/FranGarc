@@ -26,7 +26,7 @@ Linkedin: https://www.linkedin.com/in/frangarciag/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranGarc&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranGarc&repo=Pokedex&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranGarc&repo=LearningPath&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
